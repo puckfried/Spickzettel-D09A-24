@@ -13,9 +13,9 @@ Hier findet ihr eine fortlaufende Übersicht über unsere bislang kennengelernte
        - [Block Elemente](#21-block-elemente-nehmen-die-gesamte-breite-des-elternelements-ein)
        - [Inline Elemente](#22-inline-elemente-nehmen-nur-die-breite-ihres-inhalts)
 2. [CSS-Eigenschaften](#css-eigenschaften)
-    - [Textformatierung](#textformatierung)
+    <!-- - [Textformatierung](#textformatierung)
     - [Größen](#größen)
-    - [Hintergrund](#hintergrund)
+    - [Hintergrund](#hintergrund) -->
   
 3. [Nützliche Tastenkombinationen](#nützliche-tastenkombinationen-windows)
 
@@ -65,10 +65,10 @@ Folgende Elemente haben wir bislang kennengelernt:
 |:-------------:|:------------------------------------------:|:------------------------------------:|
 | `<h1>`...`<h6>` | Überschriften                            | `<h1>Überschrift</h1>`               |
 | `<p>`          | Textabsatz                                | `<p>Textabsatz</p>`                  |
-| `<ul>`         | Ungeordnete Liste                         | `<ul><li>Element</li></ul>`          |
+<!-- | `<ul>`         | Ungeordnete Liste                         | `<ul><li>Element</li></ul>`          |
 | `<ol>`         | Geordnete Liste                           | `<ol><li>Erstes Element</li></ol>`   |
 | `<li>`         | Listenelement                             | `<li>Listeneintrag</li>`             |
-| `<div>`        | Containerelement                          | `<div>Inhalt</div>`                  |
+| `<div>`        | Containerelement                          | `<div>Inhalt</div>`                  | -->
 
 <!-- #####  zusätzliche semantische Containerelemente
 
@@ -88,24 +88,24 @@ Folgende Elemente haben wir bislang kennengelernt:
 | HTML-Element | Beschreibung                    | Beispiel                              |
 |:------------:|:-------------------------------:|:-------------------------------------:|
 | `<a>`        | Hyperlink (intern, extern)      | `<a href="url">Linktext</a>`          |
-| `<br>`       | Spezielles leeres Element für Zeilenumbrüche  | `Dies ist ein Text<br>neue Zeile`         |
+<!-- | `<br>`       | Spezielles leeres Element für Zeilenumbrüche  | `Dies ist ein Text<br>neue Zeile`         | -->
 | `<img>`      | Bild einfügen                                 | `<img src="url" alt="Bildbeschreibung">`  |
 
 <br><br><br>
 ## CSS-Eigenschaften
 **CSS** steht für ***Cascading Style Sheets*** und wird verwendet, um das Aussehen von HTML-Elementen auf einer Webseite zu definieren. Mit CSS können verschiedene Eigenschaften wie Farbe, Schriftart und Positionierung definiert werden. Durch die Trennung von Inhalt und Design wird das Ändern des Aussehens der Webseite einfacher, da nur das CSS geändert werden muss, ohne den HTML-Code zu bearbeiten.
 
-## Selektoren
+<!-- ## Selektoren
 | Selektor              | Beschreibung                                          | Beispiel                            |
 |-----------------------|-------------------------------------------------------|-------------------------------------|
 | Elementselektor       | Wählt alle Elemente eines bestimmten Typs aus.        | `p { color: blue; }`                |
 | Klassen-Selektor      | Wählt alle Elemente mit einer bestimmten Klasse aus.  | `.classname { color: red; }`        |
-| Nachfahren-Selektor   | Wählt alle Elemente innerhalb eines bestimmten Elternteils aus. | `div p { color: green; }`          |
+| Nachfahren-Selektor   | Wählt alle Elemente innerhalb eines bestimmten Elternteils aus. | `div p { color: green; }`          | -->
 <!-- | `:hover`              | Pseudoklasse für den Hover-Zustand eines Elements.    | `a:hover { color: red; }`           | -->
 
 
 
-### Textformatierung
+<!-- ### Textformatierung
 | Eigenschaft       | Beschreibung                                   | Beispiel                        |
 |-------------------|------------------------------------------------|---------------------------------|
 | `color`           | Setzt die Textfarbe.                           | `color: blue;`                  |
@@ -128,21 +128,21 @@ Folgende Elemente haben wir bislang kennengelernt:
 ## Hintergrund
 | Eigenschaft           | Beschreibung                                          | Beispiel                            |
 |-----------------------|-------------------------------------------------------|-------------------------------------|
-| `background-color`    | Legt die Hintergrundfarbe fest.                       | `background-color: yellow;`         |
+| `background-color`    | Legt die Hintergrundfarbe fest.                       | `background-color: yellow;`         | -->
 <!-- | `background-size`     | Bestimmt die Größe des Hintergrundbildes.             | `background-size: cover;`           |
 | `background-repeat`   | Legt fest, ob und wie das Hintergrundbild wiederholt wird. | `background-repeat: no-repeat;`     |
 | `background-position` | Definiert die Position des Hintergrundbildes.         | `background-position: center;`      |
 | `background-attachment` | Legt fest, ob das Hintergrundbild scrollt oder fixiert ist. | `background-attachment: fixed;` | -->
 
 
-## Flex (erste Schritte)
+<!-- ## Flex (erste Schritte)
 | Eigenschaft      | Beschreibung                                            | Beispiel                        |
 |------------------|---------------------------------------------------------|---------------------------------|
 | `display`        | Legt den flexiblen Container fest und stellt so Kinder nebeneinander.    (Achtung: display wird nicht nur für flex verwendet!)                   | `display: flex;`                |
 | `justify-content`| Bestimmt die Ausrichtung der flexiblen Elemente entlang der Hauptachse. (hier horizontal) | `justify-content: center;`      |
 | `align-items`    | Bestimmt die Ausrichtung der flexiblen Elemente entlang der Querachse. (hier: vertikal) | `align-items: center;`          |
 | `gap`            | Legt den Abstand zwischen den flexiblen Elementen fest. | `gap: 10px;`                    |
-| `flex-wrap`      | Bestimmt, ob die flexiblen Elemente in einer einzigen Zeile oder in mehreren Zeilen angezeigt werden. | `flex-wrap: wrap;`              |
+| `flex-wrap`      | Bestimmt, ob die flexiblen Elemente in einer einzigen Zeile oder in mehreren Zeilen angezeigt werden. | `flex-wrap: wrap;`              | -->
 
 <!-- 
 ## Erweiterte CSS-Effekte
