@@ -116,7 +116,7 @@ Folgende Elemente haben wir bislang kennengelernt:
 | `font-family`     | Bestimmt die Schriftart.                       | `font-family: Arial, sans-serif;`|
 | `font-style`      | Legt den Stil der Schrift fest (z.B. kursiv).  | `font-style: italic;`           |
 
-
+<!-- 
 ### Größen, Abstände und Rahmen (Boxmodel)
 | Eigenschaft | Beschreibung                            | Beispiel              |
 |-------------|-----------------------------------------|-----------------------|
