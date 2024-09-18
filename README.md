@@ -68,7 +68,7 @@ Folgende Elemente haben wir bislang kennengelernt:
  | `<ul>`         | Ungeordnete Liste                         | `<ul><li>Element</li></ul>`          |
 | `<ol>`         | Geordnete Liste                           | `<ol><li>Erstes Element</li></ol>`   |
 | `<li>`         | Listenelement                             | `<li>Listeneintrag</li>`             |
-<!--| `<div>`        | Containerelement                          | `<div>Inhalt</div>`                  | -->
+| `<div>`        | Containerelement                          | `<div>Inhalt</div>`                  |
 
 <!-- #####  zusätzliche semantische Containerelemente
 
@@ -96,17 +96,17 @@ Folgende Elemente haben wir bislang kennengelernt:
 ## CSS-Eigenschaften
 **CSS** steht für ***Cascading Style Sheets*** und wird verwendet, um das Aussehen von HTML-Elementen auf einer Webseite zu definieren. Mit CSS können verschiedene Eigenschaften wie Farbe, Schriftart und Positionierung definiert werden. Durch die Trennung von Inhalt und Design wird das Ändern des Aussehens der Webseite einfacher, da nur das CSS geändert werden muss, ohne den HTML-Code zu bearbeiten.
 
-<!-- ## Selektoren
+## Selektoren
 | Selektor              | Beschreibung                                          | Beispiel                            |
 |-----------------------|-------------------------------------------------------|-------------------------------------|
 | Elementselektor       | Wählt alle Elemente eines bestimmten Typs aus.        | `p { color: blue; }`                |
 | Klassen-Selektor      | Wählt alle Elemente mit einer bestimmten Klasse aus.  | `.classname { color: red; }`        |
-| Nachfahren-Selektor   | Wählt alle Elemente innerhalb eines bestimmten Elternteils aus. | `div p { color: green; }`          | -->
+<!-- | Nachfahren-Selektor   | Wählt alle Elemente innerhalb eines bestimmten Elternteils aus. | `div p { color: green; }`          | -->
 <!-- | `:hover`              | Pseudoklasse für den Hover-Zustand eines Elements.    | `a:hover { color: red; }`           | -->
 
 
 
-<!-- ### Textformatierung
+ ### Textformatierung
 | Eigenschaft       | Beschreibung                                   | Beispiel                        |
 |-------------------|------------------------------------------------|---------------------------------|
 | `color`           | Setzt die Textfarbe.                           | `color: blue;`                  |
@@ -129,7 +129,7 @@ Folgende Elemente haben wir bislang kennengelernt:
 ## Hintergrund
 | Eigenschaft           | Beschreibung                                          | Beispiel                            |
 |-----------------------|-------------------------------------------------------|-------------------------------------|
-| `background-color`    | Legt die Hintergrundfarbe fest.                       | `background-color: yellow;`         | -->
+| `background-color`    | Legt die Hintergrundfarbe fest.                       | `background-color: yellow;`         | 
 <!-- | `background-size`     | Bestimmt die Größe des Hintergrundbildes.             | `background-size: cover;`           |
 | `background-repeat`   | Legt fest, ob und wie das Hintergrundbild wiederholt wird. | `background-repeat: no-repeat;`     |
 | `background-position` | Definiert die Position des Hintergrundbildes.         | `background-position: center;`      |
