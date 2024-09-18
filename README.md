@@ -88,8 +88,9 @@ Folgende Elemente haben wir bislang kennengelernt:
 | HTML-Element | Beschreibung                    | Beispiel                              |
 |:------------:|:-------------------------------:|:-------------------------------------:|
 | `<a>`        | Hyperlink (intern, extern)      | `<a href="url">Linktext</a>`          |
-<!-- | `<br>`       | Spezielles leeres Element für Zeilenumbrüche  | `Dies ist ein Text<br>neue Zeile`         | -->
 | `<img>`      | Bild einfügen                                 | `<img src="url" alt="Bildbeschreibung">`  |
+<!-- | `<br>`       | Spezielles leeres Element für Zeilenumbrüche  | `Dies ist ein Text<br>neue Zeile`         | -->
+
 
 <br><br><br>
 ## CSS-Eigenschaften
