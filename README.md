@@ -65,10 +65,10 @@ Folgende Elemente haben wir bislang kennengelernt:
 |:-------------:|:------------------------------------------:|:------------------------------------:|
 | `<h1>`...`<h6>` | Überschriften                            | `<h1>Überschrift</h1>`               |
 | `<p>`          | Textabsatz                                | `<p>Textabsatz</p>`                  |
-<!-- | `<ul>`         | Ungeordnete Liste                         | `<ul><li>Element</li></ul>`          |
+ | `<ul>`         | Ungeordnete Liste                         | `<ul><li>Element</li></ul>`          |
 | `<ol>`         | Geordnete Liste                           | `<ol><li>Erstes Element</li></ol>`   |
 | `<li>`         | Listenelement                             | `<li>Listeneintrag</li>`             |
-| `<div>`        | Containerelement                          | `<div>Inhalt</div>`                  | -->
+<!--| `<div>`        | Containerelement                          | `<div>Inhalt</div>`                  | -->
 
 <!-- #####  zusätzliche semantische Containerelemente
 
