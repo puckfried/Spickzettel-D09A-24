@@ -14,7 +14,7 @@ Hier findet ihr eine fortlaufende Übersicht über unsere bislang kennengelernte
        - [Inline Elemente](#22-inline-elemente-nehmen-nur-die-breite-ihres-inhalts)
 2. [CSS-Eigenschaften](#css-eigenschaften)
     - [Textformatierung](#textformatierung)
-    - [Größen](#größen)
+    - [Größen](#größen,-abstände-und-rahmen-(boxmodel))
     - [Hintergrund](#hintergrund)
   
 3. [Nützliche Tastenkombinationen](#nützliche-tastenkombinationen-windows)
