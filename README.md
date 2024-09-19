@@ -166,7 +166,8 @@ Es ist hilfreich einige Tastenkombinationen für häufige Handlungen zu lernen. 
 Tastenkombinationen, die in **VS Code** und anderen Programmen funktionieren:
 
 - Fenster wechseln --> `Alt` + `Tab`
-- aktives Fenster nach links/rechts --> Win + Pfeil links/recht
+- aktives Fenster nach links/rechts --> `Win` + `Pfeil links/recht`
+- Desktop einblenden --> `Win` + `d`
 - Kopieren        --> `STRG` + `c`
 - Ausschneiden    --> `STRG` + `x`
 - Einfügen        --> `STRG` + `v`
