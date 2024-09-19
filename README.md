@@ -13,9 +13,9 @@ Hier findet ihr eine fortlaufende Übersicht über unsere bislang kennengelernte
        - [Block Elemente](#21-block-elemente-nehmen-die-gesamte-breite-des-elternelements-ein)
        - [Inline Elemente](#22-inline-elemente-nehmen-nur-die-breite-ihres-inhalts)
 2. [CSS-Eigenschaften](#css-eigenschaften)
-    <!-- - [Textformatierung](#textformatierung)
+    - [Textformatierung](#textformatierung)
     - [Größen](#größen)
-    - [Hintergrund](#hintergrund) -->
+    - [Hintergrund](#hintergrund)
   
 3. [Nützliche Tastenkombinationen](#nützliche-tastenkombinationen-windows)
 
@@ -101,7 +101,7 @@ Folgende Elemente haben wir bislang kennengelernt:
 |-----------------------|-------------------------------------------------------|-------------------------------------|
 | Elementselektor       | Wählt alle Elemente eines bestimmten Typs aus.        | `p { color: blue; }`                |
 | Klassen-Selektor      | Wählt alle Elemente mit einer bestimmten Klasse aus.  | `.classname { color: red; }`        |
-<!-- | Nachfahren-Selektor   | Wählt alle Elemente innerhalb eines bestimmten Elternteils aus. | `div p { color: green; }`          | -->
+| Nachfahren-Selektor   | Wählt alle Elemente innerhalb eines bestimmten Elternteils aus. | `div p { color: green; }`          | 
 <!-- | `:hover`              | Pseudoklasse für den Hover-Zustand eines Elements.    | `a:hover { color: red; }`           | -->
 
 
@@ -116,7 +116,7 @@ Folgende Elemente haben wir bislang kennengelernt:
 | `font-family`     | Bestimmt die Schriftart.                       | `font-family: Arial, sans-serif;`|
 | `font-style`      | Legt den Stil der Schrift fest (z.B. kursiv).  | `font-style: italic;`           |
 
-<!-- 
+
 ### Größen, Abstände und Rahmen (Boxmodel)
 | Eigenschaft | Beschreibung                            | Beispiel              |
 |-------------|-----------------------------------------|-----------------------|
