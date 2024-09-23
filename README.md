@@ -130,27 +130,27 @@ Folgende Elemente haben wir bislang kennengelernt:
 | Eigenschaft           | Beschreibung                                          | Beispiel                            |
 |-----------------------|-------------------------------------------------------|-------------------------------------|
 | `background-color`    | Legt die Hintergrundfarbe fest.                       | `background-color: yellow;`         | 
-<!-- | `background-size`     | Bestimmt die Größe des Hintergrundbildes.             | `background-size: cover;`           |
+| `background-size`     | Bestimmt die Größe des Hintergrundbildes.             | `background-size: cover;`           |
 | `background-repeat`   | Legt fest, ob und wie das Hintergrundbild wiederholt wird. | `background-repeat: no-repeat;`     |
 | `background-position` | Definiert die Position des Hintergrundbildes.         | `background-position: center;`      |
-| `background-attachment` | Legt fest, ob das Hintergrundbild scrollt oder fixiert ist. | `background-attachment: fixed;` | -->
+| `background-attachment` | Legt fest, ob das Hintergrundbild scrollt oder fixiert ist. | `background-attachment: fixed;` |
 
 
-<!-- ## Flex (erste Schritte)
+## Flex (erste Schritte)
 | Eigenschaft      | Beschreibung                                            | Beispiel                        |
 |------------------|---------------------------------------------------------|---------------------------------|
 | `display`        | Legt den flexiblen Container fest und stellt so Kinder nebeneinander.    (Achtung: display wird nicht nur für flex verwendet!)                   | `display: flex;`                |
 | `justify-content`| Bestimmt die Ausrichtung der flexiblen Elemente entlang der Hauptachse. (hier horizontal) | `justify-content: center;`      |
 | `align-items`    | Bestimmt die Ausrichtung der flexiblen Elemente entlang der Querachse. (hier: vertikal) | `align-items: center;`          |
 | `gap`            | Legt den Abstand zwischen den flexiblen Elementen fest. | `gap: 10px;`                    |
-| `flex-wrap`      | Bestimmt, ob die flexiblen Elemente in einer einzigen Zeile oder in mehreren Zeilen angezeigt werden. | `flex-wrap: wrap;`              | -->
+| `flex-wrap`      | Bestimmt, ob die flexiblen Elemente in einer einzigen Zeile oder in mehreren Zeilen angezeigt werden. | `flex-wrap: wrap;`              |
 
 <!-- 
 ## Erweiterte CSS-Effekte
 | Eigenschaft           | Beschreibung                                          | Beispiel                            |
 |-----------------------|-------------------------------------------------------|-------------------------------------|
 | `transition`          | Definiert Übergangseffekte zwischen zwei Zuständen eines Elements. | `transition: all 0.3s ease;`       |
-| `box-shadow`          | Fügt einem Element einen Schatten hinzu.              | `box-shadow: 0px 4px 8px rgba(0,0,0,0.3);` | --> -->
+| `box-shadow`          | Fügt einem Element einen Schatten hinzu.              | `box-shadow: 0px 4px 8px rgba(0,0,0,0.3);` | -->
 
 
 
