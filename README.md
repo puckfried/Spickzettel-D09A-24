@@ -65,12 +65,12 @@ Folgende Elemente haben wir bislang kennengelernt:
 |:-------------:|:------------------------------------------:|:------------------------------------:|
 | `<h1>`...`<h6>` | Überschriften                            | `<h1>Überschrift</h1>`               |
 | `<p>`          | Textabsatz                                | `<p>Textabsatz</p>`                  |
- | `<ul>`         | Ungeordnete Liste                         | `<ul><li>Element</li></ul>`          |
+| `<ul>`         | Ungeordnete Liste                         | `<ul><li>Element</li></ul>`          |
 | `<ol>`         | Geordnete Liste                           | `<ol><li>Erstes Element</li></ol>`   |
 | `<li>`         | Listenelement                             | `<li>Listeneintrag</li>`             |
 | `<div>`        | Containerelement                          | `<div>Inhalt</div>`                  |
 
-<!-- #####  zusätzliche semantische Containerelemente
+#####  zusätzliche semantische Containerelemente
 
 | HTML-Element  | Beschreibung                               | Beispiel                             |
 |:-------------:|:------------------------------------------:|:------------------------------------:|
@@ -79,7 +79,7 @@ Folgende Elemente haben wir bislang kennengelernt:
 | `<footer>`    | Definiert den Fußbereich eines Dokuments oder einer Sektion. | `<footer>Fußbereich</footer>`        |
 | `<section>`   | Thematisch zusammenhängender Bereich eines Dokuments. | `<section>Abschnitt</section>`       |
 | `<nav>`       | Definiert eine Gruppe von Navigationslinks. | `<nav>Navigation</nav>`              |
-| `<article>`   | Unabhängiger Artikel, der in sich geschlossen ist. | `<article>Artikel</article>`         | -->
+| `<article>`   | Unabhängiger Artikel, der in sich geschlossen ist. | `<article>Artikel</article>`         |
 
 
    
@@ -89,7 +89,7 @@ Folgende Elemente haben wir bislang kennengelernt:
 |:------------:|:-------------------------------:|:-------------------------------------:|
 | `<a>`        | Hyperlink (intern, extern)      | `<a href="url">Linktext</a>`          |
 | `<img>`      | Bild einfügen                                 | `<img src="url" alt="Bildbeschreibung">`  |
-<!-- | `<br>`       | Spezielles leeres Element für Zeilenumbrüche  | `Dies ist ein Text<br>neue Zeile`         | -->
+| `<br>`       | Spezielles leeres Element für Zeilenumbrüche  | `Dies ist ein Text<br>neue Zeile`         |
 
 
 <br><br><br>
@@ -102,7 +102,7 @@ Folgende Elemente haben wir bislang kennengelernt:
 | Elementselektor       | Wählt alle Elemente eines bestimmten Typs aus.        | `p { color: blue; }`                |
 | Klassen-Selektor      | Wählt alle Elemente mit einer bestimmten Klasse aus.  | `.classname { color: red; }`        |
 | Nachfahren-Selektor   | Wählt alle Elemente innerhalb eines bestimmten Elternteils aus. | `div p { color: green; }`          | 
-<!-- | `:hover`              | Pseudoklasse für den Hover-Zustand eines Elements.    | `a:hover { color: red; }`           | -->
+| `:hover`              | Pseudoklasse für den Hover-Zustand eines Elements.    | `a:hover { color: red; }`           | 
 
 
 
@@ -145,12 +145,12 @@ Folgende Elemente haben wir bislang kennengelernt:
 | `gap`            | Legt den Abstand zwischen den flexiblen Elementen fest. | `gap: 10px;`                    |
 | `flex-wrap`      | Bestimmt, ob die flexiblen Elemente in einer einzigen Zeile oder in mehreren Zeilen angezeigt werden. | `flex-wrap: wrap;`              |
 
-<!-- 
+ 
 ## Erweiterte CSS-Effekte
 | Eigenschaft           | Beschreibung                                          | Beispiel                            |
 |-----------------------|-------------------------------------------------------|-------------------------------------|
 | `transition`          | Definiert Übergangseffekte zwischen zwei Zuständen eines Elements. | `transition: all 0.3s ease;`       |
-| `box-shadow`          | Fügt einem Element einen Schatten hinzu.              | `box-shadow: 0px 4px 8px rgba(0,0,0,0.3);` | -->
+| `box-shadow`          | Fügt einem Element einen Schatten hinzu.              | `box-shadow: 0px 4px 8px rgba(0,0,0,0.3);` |
 
 
 
